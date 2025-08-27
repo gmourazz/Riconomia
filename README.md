@@ -1,0 +1,1 @@
+Plataforma web desenvolvida com foco em educação financeira e interatividade, integrando artigos e calculadoras dinâmicas em um layout moderno e responsivo. O projeto foi construído utilizando React.js como framework principal, com Tailwind CSS para estilização e componentes visuais reutilizáveis.
