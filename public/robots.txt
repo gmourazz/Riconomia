@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://riconomia.com.br/sitemap.xml
